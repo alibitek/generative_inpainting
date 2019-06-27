@@ -1,0 +1,4 @@
+opencv-python==4.1.0.25
+PyYAML==5.1.1
+tensorflow==1.14.0
+git+https://github.com/JiahuiYu/neuralgym.git@0.0.1#egg=neuralgym

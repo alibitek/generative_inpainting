@@ -12,6 +12,8 @@ source venv/bin/activate
 pip install --upgrade pip  
 
 # Install dependencies
+pip install -r requirements.txt  
+or  
 pip install tensorflow==1.14.0 opencv-python pyyaml git+https://github.com/JiahuiYu/neuralgym  
 
 # Create trained models directory
