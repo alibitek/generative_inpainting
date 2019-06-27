@@ -20,6 +20,7 @@ parser.add_argument('--checkpoint_dir', default='', type=str,
 
 
 if __name__ == "__main__":
+    # Comment this line if you don't have an NVIDIA dedicated GPU or want to test on CPU.
     ng.get_gpus(1)
     args = parser.parse_args()
 
