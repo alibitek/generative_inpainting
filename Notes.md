@@ -38,3 +38,9 @@ python test.py --image examples/places2/wooden_input.png --mask examples/places2
 ## Windows
 
 TBD
+
+## Google Codelab
+https://drive.google.com/open?id=1mSQrO8o-o5GSQWjlico7O_gpT3YrkDRG
+https://drive.google.com/open?id=1BXiUSiRizUG9HxFWH43iYkc3KiPnXrRI
+https://drive.google.com/open?id=186h4Kk7W8CkmrdbPwbp2JAssFA1VfzCJ
+https://drive.google.com/open?id=18rFtQyyQ3iWvBG43nDnFb9WnMHoGco0C
